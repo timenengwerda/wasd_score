@@ -1,0 +1,1 @@
+{"player":[{"name":"yuyu","score":"725"},{"name":"sdasdasda","score":"375"},{"name":"asdasd","score":"225"},{"name":"f","score":"175"},{"name":"efgew","score":"150"},{"name":"yjyjytj","score":"125"},{"name":"asdasd","score":"125"},{"name":"4t","score":"75"},{"name":"asdasdas","score":"75"},{"name":"asdas","score":"25"}]}
